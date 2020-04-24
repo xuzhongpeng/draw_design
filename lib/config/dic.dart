@@ -1,0 +1,1 @@
+enum APP_TARGET { pro, mini }
